@@ -1,0 +1,70 @@
+h1.heading {
+  font-size: 60px;
+  text-align: center;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+p.heading.p__color {
+  margin-bottom: 0;
+  text-align: center;
+  line-height: 1.2;
+}
+.skill__box {
+  border-radius: 10px;
+  width: 100%;
+  background-color: #191919;
+  padding: 55px;
+  transition: 4s ease88;
+  height: 35vh;
+}
+p.skill__text.p__color {
+  margin-bottom: 0;
+  font-size: smaller;
+}
+.icon h4 {
+  color: beige;
+  margin-top: -15px;
+}
+.skill__box:hover {
+  transform: translateY(5px);
+}
+.skill__box:hover .icon h4 {
+  color: #f9004d;
+}
+.skill__box:hover p.skill__text.p__color {
+  color: aliceblue !important;
+}
+/* responsive */
+@media only screen and (max-width: 1024px) {
+  .skill__box {
+    padding: 32px;
+  }
+  
+}
+@media only screen and (max-width: 900px){
+  .container p {
+    font-size: 14px !important;
+  }
+  
+}
+
+@media only screen and (max-width: 280px) {
+  .container p {
+    font-size: 10px !important;
+  }
+  .container h4 {
+    font-size: 14px !important;
+  }
+  .skill__box:hover {
+    transform: translateY(2px);
+  }
+  .skill__box:hover .icon h4 {
+    color: #f9004d;
+  }
+  .skill__box:hover p.skill__text.p__color {
+    color: aliceblue !important;
+  }
+} 
+    
+    

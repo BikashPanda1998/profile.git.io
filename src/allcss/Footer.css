@@ -1,0 +1,15 @@
+.footer{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer__img{
+    height: 10vh;
+    width: 100%;
+}
+span.copyright{
+    position: absolute;
+    font-weight: 400;
+
+}
