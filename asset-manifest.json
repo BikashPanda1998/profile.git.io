@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/profile.git.io/static/css/main.595496f3.css",
+    "main.js": "/profile.git.io/static/js/main.bdf37e1a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/profile.git.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/mycv.pdf": "/profile.git.io/static/media/mycv.24beeb635c9a82ca77d9.pdf",
+    "static/media/about-us-image.jpg": "/profile.git.io/static/media/about-us-image.ae96581fa190be15e3d4.jpg",
+    "static/media/video-thumb.jpg": "/profile.git.io/static/media/video-thumb.907dfe36ad665ec75d66.jpg",
+    "static/media/shopping.jpg": "/profile.git.io/static/media/shopping.aaeec4ef587fe09fcfc5.jpg",
+    "static/media/webhosting.jpeg": "/profile.git.io/static/media/webhosting.87b9dc4abab40c561e42.jpeg",
+    "static/media/hospital.jpg": "/profile.git.io/static/media/hospital.bb6e837feca78fd6a469.jpg",
+    "static/media/quiz.jpeg": "/profile.git.io/static/media/quiz.faf5e7e779f8790f9864.jpeg",
+    "static/media/todolist.jpg": "/profile.git.io/static/media/todolist.452ff8622ccaa3a9f39e.jpg",
+    "static/media/projects-02.jpg": "/profile.git.io/static/media/projects-02.9c6ec4db82038de22c63.jpg",
+    "static/media/31bg.jpg": "/profile.git.io/static/media/31bg.766eca4c4407b04f3dfa.jpg",
+    "index.html": "/profile.git.io/index.html",
+    "main.595496f3.css.map": "/profile.git.io/static/css/main.595496f3.css.map",
+    "main.bdf37e1a.js.map": "/profile.git.io/static/js/main.bdf37e1a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/profile.git.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.595496f3.css",
+    "static/js/main.bdf37e1a.js"
+  ]
+}
